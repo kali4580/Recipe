@@ -57,3 +57,9 @@ img {
     width: 250px;
     height: auto;
 }
+.horizontal-row-layout img {
+    width: 250px;
+    height: auto;
+    display: inline;
+    margin: 0;
+}
