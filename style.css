@@ -52,14 +52,9 @@ img {
     display: flex;
     gap: 20px;
 }
-
-.horizontal-row-layout img {
+.horizontal-row-layout img{
     width: 250px;
     height: auto;
-}
-.horizontal-row-layout img {
-    width: 250px;
-    height: auto;
-    display: inline;
+    display: inline-block;
     margin: 0;
 }
