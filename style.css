@@ -8,18 +8,12 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: #F08080;
-    scroll-behavior: smooth;
     background-color: #FFB5C0;   
 }
 
 
 
-.logo {
-    font-size: 1.5rem;
-    font-weight: 900;
-    color: #e02424;
-    letter-spacing: -0.5px;
-}
+
 
 
 
