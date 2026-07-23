@@ -40,3 +40,10 @@ body {
 .nav-links li{
     margin-left: 24px;
 }
+
+img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 20px auto
+}
