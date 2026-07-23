@@ -46,15 +46,3 @@ img {
     height: auto;
     display: block;
     margin: 20px auto
-}
-
-.horizontal-row-layout {
-    display: flex;
-    gap: 20px;
-}
-.horizontal-row-layout img{
-    width: 250px;
-    height: auto;
-    display: inline-block;
-    margin: 0;
-}
