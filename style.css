@@ -21,14 +21,8 @@ body {
     letter-spacing: -0.5px;
 }
 
-.nav-links {
-    display: flex;
-    list-style: none;
-}
 
-.nav-links li{
-    margin-left: 24px;
-}
+
 
 img {
     width: 500px;
